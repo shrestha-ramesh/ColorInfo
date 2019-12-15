@@ -1,12 +1,12 @@
 # ColorInfo
 
 ## Project Description
-This porject is a simple quiz app for ios platform. The app consist of a home page where users are asked questions by a random
-question generator and depending on the right or wrong answer points are changed. The player, if doesnot know answer, has
-option to go for 50-50 option where two of the wrong options are elimiated wbere it takes away 1 point from the player. The
-other option is to get the answer where the player will loose 3 points.
+This website is a color descripiton platfrom where the cliets can see the information about colors and their characteristics.
+The website has multiple hyperlinks with color names on them and depending on what user picks they are transported to that 
+particular color link to see its details. It is a static website comtaining medias like images.
 
 ## Technologies Used
 Languages used: HTML, CSS, JavaScript
 Code Editor: Notepad++
-Test Demo Platform: Web hosting (http://homepages.neiu.edu/~rshrest2/cs300/intro.html) 
+Test Demo Platform: Google Chrome
+Product Web hosting: http://homepages.neiu.edu/~rshrest2/cs300/intro.html
