@@ -6,7 +6,10 @@ The website has multiple hyperlinks with color names on them and depending on wh
 particular color link to see its details. It is a static website comtaining medias like images.
 
 ## Technologies Used
-Languages used: HTML, CSS, JavaScript\n
+Languages used: HTML, CSS, JavaScript
+
 Code Editor: Notepad++
+
 Test Demo Platform: Google Chrome
+
 Product Web hosting: http://homepages.neiu.edu/~rshrest2/cs300/intro.html
